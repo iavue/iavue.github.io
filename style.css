@@ -5,10 +5,20 @@ body {
   margin: 10% 20%;
 }
 
+.header {
+  background-color: black;
+  border: 1px solid white;
+  padding-left: 10px;
+}
+
 .exp-header {
   text-align: center;
-  text-transform: uppersase;
+  text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
+}
+
+.footer {
+  background-color: rgba(0,0,0, 0.1);
 }
