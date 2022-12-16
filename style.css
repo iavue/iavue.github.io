@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #D9E1D1;
   color: black;
   font-family: Merriweather, Helvetica, sans-serif;
   font-size: 14px;
@@ -8,7 +8,8 @@ body {
 
 .profile-img {
   text-align: center;
-  background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-fresh-white-brick-face-poster-banner-background-picture-image_1110253.jpg);
+  background-image: url(https://live.staticflickr.com/65535/52566818740_0bac62d016_b.jpg);
+  border-radius: 5%;
 }
 
 .header {
@@ -18,8 +19,7 @@ body {
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-bottom: 1px solid #dddddd;
-  background-color: white
+  border-bottom: 1px solid #000000;
   margin: 10px;
   padding: 10px;
 }
